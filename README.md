@@ -14,7 +14,7 @@ I am a Double degree studient in ....
  
  :books: I'm reading The Pragmatic Programmer.
  
- 👯 I’m looking to collaborate in some data-scientist
+ 🤝 I’m looking to collaborate on data science or AI projects.
  
  🤔 I’m looking for help with [Github Blog Cards](https://github.com/DnielFort/Github-Cards-External-Blogs).
  
@@ -52,15 +52,14 @@ I am a Double degree studient in ....
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 ---
-
+⚙️⚙️⚙️[CURRENTLY IMPROVING]⚙️⚙️⚙️
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DnielFort&show_icons=true&hide_border=true)
 
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/DnielFort)
 
 ---
 
 
-### You can find in me in the web 🌍
+### A showcase of My Projects!
 [<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
