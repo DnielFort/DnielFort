@@ -19,9 +19,6 @@ I am a Computer Engineering and Telecommunication Systems Engineering student at
  💬 Ask me about my projects if you want to colaborate.
 
 
-![Profile views](https://gpvc.arturio.dev/DnielFort)  <img src="https://img.shields.io/github/followers/DnielFort?label=Follow" style=" float:left, margin-right:10px" />
-
-
 ---
 
 
