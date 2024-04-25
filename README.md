@@ -42,7 +42,4 @@ I am a Computer Engineering and Telecommunication Systems Engineering student at
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 <h2><b>Check the Repositories</b> and don't forget to give a star.👇<h2>
-:star: From [DnielFort](https://github.com/DnielFort) 
-
-[email]: danifort1205@gmail.com
 
