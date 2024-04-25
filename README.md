@@ -31,34 +31,15 @@ I am a Computer Engineering and Telecommunication Systems Engineering student at
 </p>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DnielFort&show_icons=true&hide_border=true)
 
-
----
-
-
-### A showcase of My Projects!
-[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br/>
 
-
----
-### You can checkout my blogs :loudspeaker: 
-
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
-
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
 
 ---
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
-**Check the Repositories and don't forget to give a star.** 👇
-
-:star: From [DnielFort](https://github.com/DnielFort)
+<h2><b>Check the Repositories</b> and don't forget to give a star.👇<h2>
+:star: From [DnielFort](https://github.com/DnielFort) 
 
 [email]: danifort1205@gmail.com
 
