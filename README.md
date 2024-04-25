@@ -28,8 +28,11 @@ I am a Computer Engineering and Telecommunication Systems Engineering student at
 ---
 <p align="center" width="300">
    <h4 align="center">⚙️⚙️⚙️[CURRENTLY IMPROVING]⚙️⚙️⚙️</h4>
+   
+   [![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=DnielFort)](https://github.com/DnielFort)
+
 </p>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DnielFort&show_icons=true&hide_border=true)
+
 
 <br/>
 
