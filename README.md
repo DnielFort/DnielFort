@@ -4,7 +4,7 @@
    <h3 align="center">Hey 👋! I'm Daniel Fort 👨🏻‍💻</h3>
 </p>
 
-I am a Computer Engineering and Telecommunication Systems Engineering student at UAB
+I'm a Computer Engineering and Telecommunication Systems Engineering student at UAB
 
  🔭 I’m planning for a Project than involves JS, python and mongoDB
  
