@@ -4,11 +4,11 @@
    <h3 align="center">Hey 👋! I'm Daniel Fort 👨🏻‍💻</h3>
 </p>
 
-I am a Double degree studient in ....
+I am a Computer Engineering and Telecommunication Systems Engineering student at UAB
 
- 🔭 I’m planning for a Project than involves...
+ 🔭 I’m planning for a Project than involves JS, python and mongoDB
  
- 🌱 I’m currently learning ...
+ 🌱 I’m currently learning IA
  
  :books: I'm reading The Pragmatic Programmer.
  
