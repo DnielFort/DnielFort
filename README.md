@@ -14,7 +14,7 @@ I'm a Computer Engineering and Telecommunication Systems Engineering student at 
  
  🤝 I’m looking to collaborate on data science or AI projects.
  
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/DnielFort/Github-Cards-External-Blogs).
+ 🤔 I’m looking for help with [Terraform](https://www.terraform.io/).
  
  💬 Ask me about my projects if you want to colaborate.
 
