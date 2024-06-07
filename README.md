@@ -6,9 +6,9 @@
 
 I'm a Computer Engineering and Telecommunication Systems Engineering student at UAB
 
- 🔭 I’m planning for a Project than involves JS, python and mongoDB
+ 🔭 I’m planning for a Project that involves JS, python and mongoDB and Docker
  
- 🌱 I’m currently learning IA
+ 🌱 I’m currently learning Docker
  
  :books: I'm reading The Pragmatic Programmer.
  
